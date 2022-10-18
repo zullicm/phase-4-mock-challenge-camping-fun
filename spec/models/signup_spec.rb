@@ -34,3 +34,4 @@ RSpec.describe Signup, type: :model do
   end
 
 end
+
